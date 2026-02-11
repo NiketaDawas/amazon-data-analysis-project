@@ -24,4 +24,4 @@ Amazon product dataset containing 1465 records and 16 columns.
 - Price does not strongly affect customer ratings
 
 ## Author
-Niketa (Radha)
+Niketa
